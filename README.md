@@ -11,7 +11,7 @@ Connect a device and run the command
 flutter run
 
 ## To download and run this apk, use the following url:
-<!-- [URL](https://tinyurl.com/y7k5f2hm) -->
+[URL](https://tinyurl.com/yd69q9k5)
 
 ## Getting Started
 
