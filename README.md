@@ -2,6 +2,17 @@
 
 A new Flutter project.
 
+## How to run?
+
+Make sure you have installed all the dependencies for flutter.
+
+Connect a device and run the command
+
+flutter run
+
+## To download and run this apk, use the following url:
+<!-- [URL](https://tinyurl.com/y7k5f2hm) -->
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
